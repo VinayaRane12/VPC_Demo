@@ -13,4 +13,3 @@ module "dev-mastek-vpc" {
   azs = "eu-west-1a"
   single_nat_gateway = true
 }
-
